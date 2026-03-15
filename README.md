@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: S ISWARAYA
+### Register Number: 212225040135
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
